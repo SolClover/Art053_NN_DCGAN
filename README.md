@@ -5,4 +5,4 @@ Public repository containing materials used in the DCGAN article.
 
 Data Source and Licence: https://data.caltech.edu/records/20086 After downloading the data, place in the "data/101_ObjectCategories"
 
-Article Link: TBC
+Article Link: https://towardsdatascience.com/deep-convolutional-gan-how-to-use-a-dcgan-to-generate-images-in-python-b08afd4d124e
